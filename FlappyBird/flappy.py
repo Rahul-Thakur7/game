@@ -1,3 +1,6 @@
+#first install pygame module using cmd 
+#pip install pygame
+
 import pygame, sys, random 
 
 def draw_floor():
